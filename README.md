@@ -49,8 +49,9 @@ A powerful C#-based Windows Forms application for deep network scanning, port ma
 
 ## 📷 Screenshots 
  
-<img width="572" alt="Screenshot 2025-05-03 025306" src="https://github.com/user-attachments/assets/26ada6e9-f769-41e9-a083-ae99a4da826a" />
-<img width="572" alt="Screenshot 2025-05-03 025355" src="https://github.com/user-attachments/assets/8b85c582-9bce-49b5-90a8-82942e68ead2" />
+<img width="572" alt="Screenshot 2025-05-03 025306" src="https://github.com/user-attachments/assets/60cc74e8-d0b3-46da-a722-44842b763429" />
+
+<img width="572" alt="Screenshot 2025-05-03 025355" src="https://github.com/user-attachments/assets/2dd0936e-4245-454d-9967-2ed6e1c38a97" />
 
 
 ---
