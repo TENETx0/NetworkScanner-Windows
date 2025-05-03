@@ -19,9 +19,8 @@ A powerful C#-based Windows Forms application for deep network scanning, port ma
 
 ## 🧑‍💻 Usage Instructions
 
-1. 🔧 **Build Requirements**:
-   - Visual Studio 2019 or higher
-   - .NET Framework 4.7.2+
+1. 🔧 **Download the MSI/.exe File to install The application on windows**:
+   - Install the application on windows
    - Windows OS
 
 2. 📥 **Input Format**:
@@ -37,8 +36,13 @@ A powerful C#-based Windows Forms application for deep network scanning, port ma
    - Click **Save** to export an HTML version of the scan log.
 
 5. 🔗 **About**:
-   - Link label redirects to [Nmap](https://nmap.org/) for deeper learning.
+   - Link label redirects to https://github.com/TENETx0/NetworkScanner-Windows/wiki for deeper learning.
+     
+6. 🗑️ **Uninstall**:
+   - You'll find "Installer NetworkScanner" in your Programs,By uninstalling You can uninstall the application completely from the System
+  <img width="704" alt="uninstall" src="https://github.com/user-attachments/assets/325a3d5f-d0b3-49eb-9597-032f97ab038e" />
 
+   
 ---
 
 
